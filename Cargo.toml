@@ -1,0 +1,17 @@
+[package]
+name = "strawberry-heads"
+version = "0.1.0"
+edition = "2024"
+description = "Strawberry first-party plugin: the player's head before the name in chat, for vanilla clients."
+authors = ["Strawberry Interactive LLC"]
+license = "LicenseRef-Strawberry-Source-Available-1.0"
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+strawberry-plugin-api = { version = "=0.2.2", registry = "strawberry" }
+
+# A repository of its own, not a member of a larger workspace.
+[workspace]

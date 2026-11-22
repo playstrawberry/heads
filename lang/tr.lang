@@ -1,0 +1,4 @@
+refreshed={0} oyuncusunun kafası yenilendi.
+not_online={0} çevrimiçi değil.
+status=Strawberry Heads: önbellekte {0} kafa var.
+usage=Kullanım: /heads refresh <oyuncu>.

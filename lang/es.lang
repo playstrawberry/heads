@@ -1,0 +1,4 @@
+refreshed=Cabeza de {0} actualizada.
+not_online={0} no está conectado.
+status=Strawberry Heads: {0} cabezas en caché.
+usage=Usa /heads refresh <jugador>.

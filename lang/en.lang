@@ -1,0 +1,4 @@
+refreshed=Refreshed the head of {0}.
+not_online={0} is not online.
+status=Strawberry Heads: {0} heads in the cache.
+usage=Use /heads refresh <player>.

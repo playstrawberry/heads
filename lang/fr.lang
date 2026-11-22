@@ -1,0 +1,4 @@
+refreshed=Tête de {0} actualisée.
+not_online={0} n'est pas en ligne.
+status=Strawberry Heads : {0} têtes en cache.
+usage=Utilisez /heads refresh <joueur>.
